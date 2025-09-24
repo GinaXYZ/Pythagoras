@@ -1,0 +1,56 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<style>
+		.pythagoras-row {
+			display: flex;
+			align-items: flex-start;
+			gap: 2em;
+			}
+			.pythagoras-inputs {
+			display: flex;
+			flex-direction: column;
+			gap: 3em;
+			}
+
+			.pythagoras-row img {
+				max-width: 200px;
+				height: auto;
+			}
+			.error {
+				color: red;
+		}
+	</style>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="post">
+    <fieldset>
+        <legend>Pythagoras</legend>
+		<br />
+			<div class="pythagoras-row">
+				<div class="pythagoras-inputs">
+				<input type="text" name="KatheteA" placeholder="Kathete A" />
+				<input type="text" name="KatheteB" placeholder="Kathete B" />
+				<input type="text" name="Hypotenuse" placeholder="Hypotenuse" />
+				</div>
+				<img src="/images/bil_pythagoras.png" />
+				</div>
+				@if(!string.IsNullOrEmpty(ViewBag.Fehlermeldung))
+				{
+				<div class="error">@ViewBag.Fehlermeldjung</div>
+				}
+			<br />
+			<br />
+			<button type="submit">Berechnen</button>
+			<button type="reset">Zurücksetzen</button>
+		</fieldset>
+	</form>
+</body>
+</html>
