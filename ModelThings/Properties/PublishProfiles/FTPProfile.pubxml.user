@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjfy5qccWMECU9kXd8vUlhgAAAAACAAAAAAAQZgAAAAEAACAAAACSvQ1C1JCc6bzyyUEqmKSFQrcxc4LoopJHDFNznckvuAAAAAAOgAAAAAIAACAAAACsi3yJGKzHCMkpBczJHXPlGImFaCpFCpLu2L3fyjwEUSAAAACPZmFHoYM/jncXMdj/76UJE23Y/PcYrDDc/7Mm8YAOqEAAAABuBbsu58RuVbY+AqGt4AP/qijNnV5Dj21K69huEyvyPLND/jwwA79OxoKiHcUOWzqGhZnPqIc3RPS2gO7TP5UG</EncryptedPassword>
+    <_PublishTargetUrl>ftp://site37527.siteasp.net/wwwroot</_PublishTargetUrl>
+    <History>True|2025-09-25T09:06:16.0683008Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/24/2025 08:06:15</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/24/2025 08:06:15</publishTime>
+    </File>
+    <File Include="Pythagoras.deps.json">
+      <publishTime>09/25/2025 11:06:12</publishTime>
+    </File>
+    <File Include="Pythagoras.dll">
+      <publishTime>09/25/2025 11:06:12</publishTime>
+    </File>
+    <File Include="Pythagoras.exe">
+      <publishTime>09/25/2025 11:06:12</publishTime>
+    </File>
+    <File Include="Pythagoras.pdb">
+      <publishTime>09/25/2025 11:06:12</publishTime>
+    </File>
+    <File Include="Pythagoras.runtimeconfig.json">
+      <publishTime>09/25/2025 10:13:40</publishTime>
+    </File>
+    <File Include="Pythagoras.staticwebassets.endpoints.json">
+      <publishTime>09/25/2025 10:13:41</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/25/2025 11:06:12</publishTime>
+    </File>
+    <File Include="wwwroot/images/bil_pythagoras.png">
+      <publishTime>09/24/2025 08:41:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

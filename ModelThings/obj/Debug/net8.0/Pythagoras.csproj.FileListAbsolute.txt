@@ -52,7 +52,6 @@ C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\staticwebasset
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\Pythagoras.dll
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\refint\Pythagoras.dll
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\Pythagoras.pdb

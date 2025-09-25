@@ -1,0 +1,7 @@
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Release\net8.0\PubTmp\Out\Pythagoras.exe
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Release\net8.0\PubTmp\Out\Pythagoras.dll
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Release\net8.0\PubTmp\Out\Pythagoras.deps.json
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Release\net8.0\PubTmp\Out\Pythagoras.runtimeconfig.json
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Release\net8.0\PubTmp\Out\Pythagoras.pdb
