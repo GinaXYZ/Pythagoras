@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|c:\\users\\fia\\source\\repos\\pythagoras\\modelthings\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|solutionrelative:modelthings\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|c:\\users\\fia\\source\\repos\\pythagoras\\modelthings\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|solutionrelative:modelthings\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|c:\\users\\fia\\source\\repos\\pythagoras\\modelthings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|solutionrelative:modelthings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|c:\\users\\fia\\source\\repos\\pythagoras\\modelthings\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{479524C5-F0FE-4340-B955-8872834145C4}|ModelThings\\Pythagoras.csproj|solutionrelative:modelthings\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\ModelThings\\appsettings.json",
               "RelativeDocumentMoniker": "ModelThings\\appsettings.json",
@@ -46,44 +46,43 @@
               "RelativeToolTip": "ModelThings\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T12:34:37.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T12:34:37.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\ModelThings\\Program.cs",
               "RelativeDocumentMoniker": "ModelThings\\Program.cs",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\ModelThings\\Program.cs",
               "RelativeToolTip": "ModelThings\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T06:36:49.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\ModelThings\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ModelThings\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\ModelThings\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ModelThings\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-24T06:23:09.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\ModelThings\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ModelThings\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\FIA\\source\\repos\\Pythagoras\\ModelThings\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelThings\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T06:23:00.888Z",
               "EditorCaption": ""

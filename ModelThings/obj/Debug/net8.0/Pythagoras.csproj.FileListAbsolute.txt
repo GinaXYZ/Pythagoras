@@ -59,3 +59,4 @@ C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\Pythagoras.pdb
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\Pythagoras.genruntimeconfig.cache
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\ref\Pythagoras.dll
 C:\Users\FIA\source\repos\Pythagoras\ModelThings\bin\Debug\net8.0\Pythagoras.staticwebassets.runtime.json
+C:\Users\FIA\source\repos\Pythagoras\ModelThings\obj\Debug\net8.0\Pythagoras.sourcelink.json

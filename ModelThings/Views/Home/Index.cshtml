@@ -36,20 +36,20 @@
 		<br />
 			<div class="pythagoras-row">
 				<div class="pythagoras-inputs">
-				<input type="text" name="KatheteA" placeholder="Kathete A" />
-				<input type="text" name="KatheteB" placeholder="Kathete B" />
-				<input type="text" name="Hypotenuse" placeholder="Hypotenuse" />
+				<input type="text" name="KatheteA" placeholder="Kathete A" value="@ViewBag.KatheteA" />
+				<input type="text" name="KatheteB" placeholder="Kathete B" value ="@ViewBag.KatheteB"/>
+				<input type="text" name="Hypotenuse" placeholder="Hypotenuse" value ="@ViewBag.Hypotenuse" />
 				</div>
 				<img src="/images/bil_pythagoras.png" />
 				</div>
 				@if(!string.IsNullOrEmpty(ViewBag.Fehlermeldung))
 				{
-				<div class="error">@ViewBag.Fehlermeldjung</div>
+				<div class="error">@ViewBag.Fehlermeldung</div>
 				}
 			<br />
 			<br />
 			<button type="submit">Berechnen</button>
-			<button type="reset">Zurücksetzen</button>
+			<button type="reset" name="reset" value="ResetAll">Zurücksetzen</button>
 		</fieldset>
 	</form>
 </body>
