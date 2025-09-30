@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pythagoras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e22a03490ea72bd4ad70dc7a0bb0e87b51c29e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5e7c39681bbc1952585cda252913007a33c3016")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pythagoras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pythagoras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
